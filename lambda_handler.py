@@ -197,7 +197,7 @@ def lambda_handler(event, context):
             "messages": [
                 {
                     "contentType": "PlainText",
-                    "content": "Wohoo! Your ride has been booked."
+                    'content':"Thank you for trusting us. Your details have been recorded. We will update you shortly with the status of your ride."
                 }
             ]
         }
