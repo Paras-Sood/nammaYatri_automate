@@ -34,7 +34,9 @@ Overall, a WhatsApp bot is a well-suited solution for booking rides in Bangalore
 The chatbot is live and can be accessed by texting ```join magic-feel``` to the number ```+1 (415) 523-8886``` on WhatsApp.
 
 
-The Web portal containing the live data entered by any user andcorresponding data analytics can be accessed via:
+## Insights
+
+The Web portal containing the live data entered by any user and corresponding __Data Analytics__ can be accessed via:
 ```
 https://paras-sood.github.io/botMetrics/
 ```
